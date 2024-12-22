@@ -1,0 +1,13 @@
+.divContainer {
+  border: 1px solid black;
+  box-shadow: 0 0 20px grey;
+  margin: 8px;
+  max-width: 250px;
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+}
+
+.img {
+  max-width: 60%;
+}
